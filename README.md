@@ -4,7 +4,7 @@
 </p>
 
 <!-- ==================== 个人简介 ==================== -->
-## 👋 你好，我是小师 / Hi, I'm Xiao Shi
+## 👋 你好，我是小师 / Hi, I'm Xiao Shi 🦁
 
 🧑‍🎨 前好未来（TAL）AI 产品设计师 · 独立开发者 · AIGC 创作者<br/>
 🚀 Former AI Product Designer at TAL Education, Independent Developer & AIGC Builder
