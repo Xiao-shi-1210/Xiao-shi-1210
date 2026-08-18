@@ -28,12 +28,11 @@
 
 ### ⚡ 技能 / Skills
 
-<p>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma"></code>
-  <code><img width="9%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/%E9%A3%9E%E4%B9%A6-3370FF?style=for-the-badge" alt="飞书" />
 </p>
 
 ### 📫 联系方式 / Contact
