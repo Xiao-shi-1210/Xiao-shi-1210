@@ -1,8 +1,8 @@
 # 你好，我是师利强（小师）
 
-**AI 产品经理 / AI Builder｜设计背景｜AI 产品与工具内容创作者**
+**AI 产品经理｜具有设计背景｜AI 产品与工具内容创作者**
 
-我从视觉与 UI 设计走向 AI 产品，专注 AIGC 内容生产与创作工具。我关注的不只是“能不能生成”，更是如何把模型、Prompt、设计规则和可编辑工作流，组合成真正可用的产品。
+我有 2 年 AIGC 产品规划与落地经验，主要做 AIGC 内容生产和创作工具。工作覆盖需求分析、产品规划、MVP、Prompt 规则、模型评测和上线迭代。
 
 ## 我做过的事
 
@@ -16,16 +16,13 @@
 
 | 项目 | 做什么 |
 | --- | --- |
-| [True Friend](https://github.com/Xiao-shi-1210/true-friend-ai-companion) | 一段为期 21 天、以帮助用户回归真实关系为目标的限时 AI 陪伴体验。 |
 | [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | 一个藏在 Mac 刘海里的轻量桌面工具箱。 |
-| [小讲台 AI 学习教练](https://github.com/Xiao-shi-1210/xiao-jiang-tai-coach) | 包含多 Agent、教材 RAG、学生端和管理端的 AI 学习产品实验。 |
-| [咪子分享](https://github.com/Xiao-shi-1210/mizi-ai-glossary-skill) | 把 AI 术语转换成初学者也能听懂的猫猫科普 Skill。 |
 
 ## 能力与工具
 
 - **AI 产品**：需求分析、产品定位、信息架构、原型、MVP 验证、平台规划
 - **生成能力**：Prompt 规则、模型评测、LoRA、ComfyUI、问题样本迭代
-- **AI Builder**：Vibe Coding、模型 API、前端原型、Canvas 编辑与后处理
+- **原型与落地**：Vibe Coding、模型 API、前端原型、Canvas 编辑与后处理
 - **设计背景**：视觉设计、UI / 交互、设计系统、模板与资产管理
 
 ## 找到我
@@ -37,4 +34,4 @@
 
 ---
 
-<sub>AI Product Manager / AI Builder with a background in visual and UI design.</sub>
+<sub>AI Product Manager with a background in visual and UI design.</sub>
