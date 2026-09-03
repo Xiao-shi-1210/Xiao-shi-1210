@@ -1,4 +1,4 @@
-# 你好，我是师利强（小师）
+<img src="./assets/typewriter.svg" alt="你好，我是师利强（小师）" width="620">
 
 **AI 产品经理｜具有设计背景｜AI 产品与工具内容创作者**
 
@@ -17,6 +17,14 @@
 | 项目 | 做什么 |
 | --- | --- |
 | [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | 一个藏在 Mac 刘海里的轻量桌面工具箱。 |
+
+## GitHub 记录
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xiao-shi-1210/Xiao-shi-1210/output/github-contribution-grid-snake-orange-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xiao-shi-1210/Xiao-shi-1210/output/github-contribution-grid-snake-orange.svg">
+  <img alt="师利强的 GitHub 贡献动画" src="https://raw.githubusercontent.com/Xiao-shi-1210/Xiao-shi-1210/output/github-contribution-grid-snake-orange.svg">
+</picture>
 
 ## 能力与工具
 
