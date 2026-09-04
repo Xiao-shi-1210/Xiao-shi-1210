@@ -9,20 +9,20 @@
       font-weight: 750;
       letter-spacing: 0;
     }
-    .reveal { animation: reveal 5.4s steps(12, end) infinite; }
+    .reveal { animation: reveal 7s steps(12, end) infinite; }
     .cursor {
       fill: #ff6a00;
-      animation: cursor-move 5.4s steps(12, end) infinite, cursor-blink 0.72s step-end infinite;
+      animation: cursor-move 7s steps(12, end) infinite, cursor-blink 0.72s step-end infinite;
     }
     @keyframes reveal {
-      0%, 4% { width: 0; }
-      46%, 54% { width: 504px; }
-      96%, 100% { width: 0; }
+      0% { width: 0; }
+      35%, 63.6% { width: 504px; }
+      98.6%, 100% { width: 0; }
     }
     @keyframes cursor-move {
-      0%, 4% { transform: translateX(0); }
-      46%, 54% { transform: translateX(504px); }
-      96%, 100% { transform: translateX(0); }
+      0% { transform: translateX(0); }
+      35%, 63.6% { transform: translateX(504px); }
+      98.6%, 100% { transform: translateX(0); }
     }
     @keyframes cursor-blink {
       0%, 48% { opacity: 1; }
