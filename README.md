@@ -1,16 +1,17 @@
-<img src="./assets/typewriter.svg" alt="你好，我是师利强（小师）" width="620">
+<img src="./assets/typewriter.svg" alt="您好，我是师利强" width="430">
 
-**AI 产品经理｜具有设计背景｜AI 产品与工具内容创作者**
+**AI 产品经理｜设计背景｜AI 产品与工具内容创作者**
 
-我有 2 年 AIGC 产品规划与落地经验，主要做 AIGC 内容生产和创作工具。工作覆盖需求分析、产品规划、MVP、Prompt 规则、模型评测和上线迭代。
+4年工作经验（AI产品经理×设计背景）
 
-## 找到我
+## 联系方式
 
 - 小红书：[T0 工作台](https://xhslink.cn/m/1wDuGwqQfru)
 - 抖音：[查看主页](https://v.douyin.com/k6567-Hher0/)
+- 微信：`tyyzttt`
 - 邮箱：[shizitou1210@gmail.com](mailto:shizitou1210@gmail.com)
 
-## 我做过的事
+## 项目经历
 
 - 负责学而思网校 AIGC 生产平台的规划与落地，覆盖需求分析、Prompt 规则、模型评测、平台治理和上线迭代。
 - V1.0版本三周统计中，平台标准化套系需求的业务自主完成比例由约 35% 提升到约 65%。
@@ -22,7 +23,7 @@
 
 | 项目 | 做什么 |
 | --- | --- |
-| [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | 一个藏在 Mac 刘海里的轻量桌面工具箱。 |
+| [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | Mac的轻型提效灵动岛 |
 | [Manbobo｜AI漫画创作平台](https://skr25ts0k23reipv9tuih.apigateway-cn-beijing.volceapi.com/) | 邀请码：`MB-28DV-RMKN-6X86-TPGU-K7WS`，欢迎体验。 |
 
 ## GitHub 记录
