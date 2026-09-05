@@ -23,8 +23,9 @@
 
 | 项目 | 做什么 |
 | --- | --- |
-| [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | Mac的轻型提效灵动岛 |
 | [Manbobo｜AI漫画创作平台](https://skr25ts0k23reipv9tuih.apigateway-cn-beijing.volceapi.com/) | 邀请码：`MB-28DV-RMKN-6X86-TPGU-K7WS`，欢迎体验。 |
+| [DeskPocket](https://github.com/Xiao-shi-1210/DeskPocket) | Mac的轻型提效灵动岛 |
+| [洛洛历险记｜0→1 产品商业化提案](./projects/luoluo-product-commercialization-proposal.pdf) | 从喜欢的动画出发，和三维伙伴把一个想法一路做到产品设计、商业规划、KOL 宣发与 WF 展出。 |
 
 ## GitHub 记录
 
