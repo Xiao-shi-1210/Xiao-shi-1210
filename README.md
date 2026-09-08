@@ -8,6 +8,7 @@
 
 - 小红书：[T0 工作台](https://xhslink.cn/m/1wDuGwqQfru)
 - 抖音：[查看主页](https://v.douyin.com/k6567-Hher0/)
+- [短剧内容账号](https://v.douyin.com/jevDzbEUgEk/)
 - 微信：`tyyzttt`
 - 邮箱：[shizitou1210@gmail.com](mailto:shizitou1210@gmail.com)
 
